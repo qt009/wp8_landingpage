@@ -1,0 +1,34 @@
+############# German navigation ##############
+
+[[main]]
+name = "Über uns"
+url = "/about/"
+weight = 2
+
+[[main]]
+name = "Für Entwickler"
+url = "/entwickler/"
+weight = 3
+
+
+[[main]]
+name = "Für Entscheider"
+url = "/entscheider/"
+weight = 4
+
+# footer menu
+[[footer]]
+name = "Über uns"
+url = "/about/"
+weight = 1
+
+
+[[footer]]
+name = "Impressum"
+url = "/impressum/"
+weight = 2
+
+[[footer]]
+name = "Datenschutz"
+url = "/datenschutz/"
+weight = 3
