@@ -15,7 +15,7 @@ banner:
     link: 'https://we3ve.de'
     label: zu we3ve
 features:
-  - title: Erobere die Straßen mit we3ve Carsharingg
+  - title: Erobere die Straßen mit we3ve Carsharing
     image: /images/We3ve-4.png
     content: >
       Genieße nicht nur die Fahrt, sondern die Freiheit, ein Auto mit anderen zu
