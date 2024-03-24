@@ -15,7 +15,7 @@ banner:
     link: 'https://we3ve.de'
     label: zu we3ve
 features:
-  - title: Erobere die Straßen mit we3ve Carsharing
+  - title: Erobere die Straßen mit we3ve Carsharingg
     image: /images/We3ve-4.png
     content: >
       Genieße nicht nur die Fahrt, sondern die Freiheit, ein Auto mit anderen zu
@@ -63,10 +63,9 @@ testimonials:
       designation: Student
       avatar: /images/avatar-sm.png
       content: >
-        we3ve ist einfach genial! Die App ist super benutzerfreundlich und bietet
-        eine tolle Auswahl an Fahrzeugen. Die Community-Atmosphäre macht das
-        Teilen von Autos zu einem echten Erlebnis. Kann es nur empfehlen!
-
+        we3ve ist einfach genial! Die App ist super benutzerfreundlich und
+        bietet eine tolle Auswahl an Fahrzeugen. Die Community-Atmosphäre macht
+        das Teilen von Autos zu einem echten Erlebnis. Kann es nur empfehlen!
     - name: Hans Landa
       designation: Web Designer
       avatar: /images/avatar-sm.png
