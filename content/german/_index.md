@@ -87,18 +87,13 @@ testimonials:
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo
         molestias, assumenda expedita commodi inventore non itaque molestiae
         voluptatum dolore, facilis sapiente, repellat veniam.
-    - name: Ian McKinsey
-      designation: Web Designer
+    - name: Thanh Trung Le
+      designation: Student
       avatar: /images/avatar-sm.png
       content: >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo
-        molestias, assumenda expedita commodi inventore non itaque molestiae
-        voluptatum dolore, facilis sapiente, repellat veniam.
-    - name: Quang Tran
-      designation: Student
-      content: >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo
-        molestias, assumenda expedita commodi inventore non itaque molestiae
-        voluptatum dolore, facilis sapiente, repellat veniam.
+        We3ve ist eine bahnbrechende App, die die Art und Weise verändert, wie
+        wir uns bewegen. Nie zuvor war es so einfach, Mobilität zu teilen und zu
+        vermieten, und ich bin begeistert, ein Teil dieser aufregenden
+        Gemeinschaft zu sein!
 ---
 
