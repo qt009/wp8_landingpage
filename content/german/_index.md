@@ -66,13 +66,12 @@ testimonials:
         we3ve ist einfach genial! Die App ist super benutzerfreundlich und
         bietet eine tolle Auswahl an Fahrzeugen. Die Community-Atmosphäre macht
         das Teilen von Autos zu einem echten Erlebnis. Kann es nur empfehlen!
-    - name: Hans Landa
-      designation: Web Designer
+    - name: Toni
+      designation: Student
       avatar: /images/avatar-sm.png
       content: >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo
-        molestias, assumenda expedita commodi inventore non itaque molestiae
-        voluptatum dolore, facilis sapiente, repellat veniam.
+        we3ve ist top! Einfach zu bedienen, tolle Auswahl an Autos und coole
+        Community. Absolut empfehlenswert!
     - name: Jonas McBurger
       designation: Web Designer
       avatar: /images/avatar-sm.png
