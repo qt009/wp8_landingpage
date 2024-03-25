@@ -72,13 +72,18 @@ testimonials:
       content: >
         we3ve ist top! Einfach zu bedienen, tolle Auswahl an Autos und coole
         Community. Absolut empfehlenswert!
-    - name: Jonas McBurger
-      designation: Web Designer
+    - name: Magnolia
+      designation: Studentin
       avatar: /images/avatar-sm.png
       content: >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo
-        molestias, assumenda expedita commodi inventore non itaque molestiae
-        voluptatum dolore, facilis sapiente, repellat veniam.
+        we3ve hat mich echt überzeugt! Die App ist super intuitiv und macht das
+        Buchen eines Autos zum Kinderspiel. Die Vielfalt an Fahrzeugen ist
+        beeindruckend - egal ob für die tägliche Fahrt zur Uni oder für ein
+        Wochenendabenteuer, es ist immer das passende Auto dabei. Was ich aber
+        wirklich liebe, ist die Gemeinschaft, die sich um die App herum
+        entwickelt hat. Es ist so cool, andere Nutzer zu treffen und sich
+        auszutauschen. Insgesamt eine großartige Erfahrung, die ich jedem
+        empfehlen kann!
     - name: Tom Hanks
       designation: Web Designer
       avatar: /images/avatar-sm.png
