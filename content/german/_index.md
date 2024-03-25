@@ -84,13 +84,15 @@ testimonials:
         entwickelt hat. Es ist so cool, andere Nutzer zu treffen und sich
         auszutauschen. Insgesamt eine großartige Erfahrung, die ich jedem
         empfehlen kann!
-    - name: Tom Hanks
-      designation: Web Designer
+    - name: Kim
+      designation: Auszubildender
       avatar: /images/avatar-sm.png
       content: >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo
-        molestias, assumenda expedita commodi inventore non itaque molestiae
-        voluptatum dolore, facilis sapiente, repellat veniam.
+        we3ve ist genial! Die App ist super intuitiv und bietet eine riesige
+        Auswahl an Fahrzeugen. Aber das Beste daran? Die freundliche Community
+        und die coolen Events, die das Teilen von Autos zu einem echten
+        Vergnügen machen. Ein Muss für alle, die flexibel und umweltbewusst
+        unterwegs sein wollen!
     - name: Thanh Trung Le
       designation: Student
       avatar: /images/avatar-sm.png
