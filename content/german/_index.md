@@ -59,19 +59,6 @@ testimonials:
     zufriedenen Benutzer! Schauen Sie sich unten einige unserer
     Erfahrungsberichte an, um zu sehen, was andere über We3ve sagen.
   bewertungen:
-    - name: Quang Tran
-      designation: Student
-      avatar: /images/avatar-sm.png
-      content: >
-        we3ve ist einfach genial! Die App ist super benutzerfreundlich und
-        bietet eine tolle Auswahl an Fahrzeugen. Die Community-Atmosphäre macht
-        das Teilen von Autos zu einem echten Erlebnis. Kann es nur empfehlen!
-    - name: Toni
-      designation: Student
-      avatar: /images/avatar-sm.png
-      content: >
-        we3ve ist top! Einfach zu bedienen, tolle Auswahl an Autos und coole
-        Community. Absolut empfehlenswert!
     - name: Magnolia
       designation: Studentin
       avatar: /images/avatar-sm.png
@@ -93,6 +80,13 @@ testimonials:
         und die coolen Events, die das Teilen von Autos zu einem echten
         Vergnügen machen. Ein Muss für alle, die flexibel und umweltbewusst
         unterwegs sein wollen!
+    - name: Quang Tran
+      designation: Student
+      avatar: /images/avatar-sm.png
+      content: >
+        we3ve ist einfach genial! Die App ist super benutzerfreundlich und
+        bietet eine tolle Auswahl an Fahrzeugen. Die Community-Atmosphäre macht
+        das Teilen von Autos zu einem echten Erlebnis. Kann es nur empfehlen!
     - name: Thanh Trung Le
       designation: Student
       avatar: /images/avatar-sm.png
@@ -101,5 +95,11 @@ testimonials:
         wir uns bewegen. Nie zuvor war es so einfach, Mobilität zu teilen und zu
         vermieten, und ich bin begeistert, ein Teil dieser aufregenden
         Gemeinschaft zu sein!
+    - name: Toni
+      designation: Student
+      avatar: /images/avatar-sm.png
+      content: >
+        we3ve ist top! Einfach zu bedienen, tolle Auswahl an Autos und coole
+        Community. Absolut empfehlenswert!
 ---
 
